@@ -63,8 +63,6 @@
                     {id: 4, num: 5, isFreeFloor: true, isActiveMove: false, isActiveSleep: false},
                     {id: 5, num: 6, isFreeFloor: true, isActiveMove: false, isActiveSleep: false},
                     {id: 6, num: 7, isFreeFloor: true, isActiveMove: false, isActiveSleep: false},
-                    {id: 7, num: 8, isFreeFloor: true, isActiveMove: false, isActiveSleep: false},
-                    {id: 8, num: 9, isFreeFloor: true, isActiveMove: false, isActiveSleep: false},
                 ],
             }
         },
